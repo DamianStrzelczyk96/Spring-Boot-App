@@ -1,4 +1,4 @@
-## Table of contents
+## Menu
 * [Instalacja](#instalacja)
 * [Stack technologiczny](#Stack_technologiczny)
 * [API](#API)
