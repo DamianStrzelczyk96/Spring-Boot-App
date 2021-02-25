@@ -7,8 +7,8 @@
 Aby uruchomić ten projekt pobierz go , a następnie wypakuj.
 * Sposób 1: otwórz wypakowane pliki za pomocą  IDE (np. IntelliJ) ,a następnie odśwież maven i naciśnij Run.
 * Sposób 2: otwórz lokalizacje wypakowanych plików za pomocą wiersza poleceń , a następnie wpisz : mvnw spring-boot:run
- Jeżeli korzystasz z PowerShell lub GitBush wpisz : ./mvnw spring-boot:run
- Aplikacja uruchomi sie na http://localhost:7070/
+* Jeżeli korzystasz z PowerShell lub GitBush wpisz : ./mvnw spring-boot:run
+* Aplikacja uruchomi sie na http://localhost:7070/
 
 ## Stack technologiczny:
 * Java 8
