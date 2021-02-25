@@ -1,6 +1,6 @@
 ## Table of contents
 * [Instalacja](#instalacja)
-* [Stack technologiczny](#Stack technologiczny)
+* [Stack technologiczny](#Stack_technologiczny)
 * [API](#API)
 
 ## Instalacja
