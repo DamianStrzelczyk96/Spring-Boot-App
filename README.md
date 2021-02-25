@@ -11,7 +11,7 @@
 # h2 Database
 # JUnit
 
-#API:
+# API:
  metoda POST na http://localhost:7070/item    dodaje przedmiot do listy np.
  {
    "name":"PlayStation5",
