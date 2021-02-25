@@ -5,11 +5,11 @@
 # Jeżeli korzystasz z PowerShell lub GitBush wpisz : ./mvnw spring-boot:run
 # Aplikacja uruchomi sie na http://localhost:7070/
 
-#Stack technologiczny:
-#Java 8
-#Spring-boot
-#h2 Database
-#JUnit
+# Stack technologiczny:
+# Java 8
+# Spring-boot
+# h2 Database
+# JUnit
 
 #API:
  metoda POST na http://localhost:7070/item    dodaje przedmiot do listy np.
